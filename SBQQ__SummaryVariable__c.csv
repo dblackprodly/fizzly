@@ -1,2 +1,3 @@
 "Guid","Name","SBQQ__AggregateField__c","SBQQ__AggregateFunction__c","SBQQ__CombineWith__c","SBQQ__CompositeOperator__c","SBQQ__ConstraintField__c","SBQQ__FilterField__c","SBQQ__FilterValue__c","SBQQ__Operator__c","SBQQ__Scope__c","SBQQ__TargetObject__c","SBQQ__ValueElement__c"
 54804006-eaad-479e-a263-658304eb307c,test,Quantity,Count,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Quote,Product Option,"#N/A"
+bbf7c218-91f1-4c76-95d0-5478e64d03f8,test,Quantity,Count,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Quote,Product Option,"#N/A"
